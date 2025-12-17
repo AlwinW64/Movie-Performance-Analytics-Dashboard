@@ -52,7 +52,7 @@ The objective of this project is to transform raw movie industry data into **act
 
 
 ### Decade-wise Trend in Movie Releases
-![Area chart](snapshots/Area_chart.png)
+![Area chart](snapshots/Area_Chart.png)
 
 
 ### Top Production Companies by Movie Count
