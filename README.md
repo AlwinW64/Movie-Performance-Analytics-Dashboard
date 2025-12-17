@@ -82,15 +82,15 @@ Movie-Performance-Analytics-Dashboard/
 │   └── project_report.pdf
 │
 ├── snapshots/
-│   ├── Area Chart.png
+│   ├── Area_Chart.png
 │   ├── bar_chart.png
 │   └── donut_chart.png
-    └── genre pie.png
+    └── genre_pie.png
     └── kpi_cards.png
     └── slicer1.png
     └── slicer2.png
     └── slicer3.png
-    └── Top productions.png
+    └── Top_productions.png
 │
 ├── data/
 │   └── tmdb_data.csv   (optional)
