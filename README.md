@@ -12,7 +12,7 @@ The objective of this project is to transform raw movie industry data into **act
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](snapshots/dashboard_overview.png)
 
 ---
 
@@ -48,15 +48,15 @@ The objective of this project is to transform raw movie industry data into **act
 
 
 ### Genre-wise Distribution of Movies
-![Pie chart]("snapshots/genre pie.png")
+![Pie chart](snapshots/genre_pie.png)
 
 
 ### Decade-wise Trend in Movie Releases
-![Area chart]("snapshots/Area chart.png")
+![Area chart](snapshots/Area_chart.png)
 
 
 ### Top Production Companies by Movie Count
-![Top Productions]("snapshots/Top productions.png")
+![Top Productions](snapshots/Top_productions.png)
 
 ---
 
